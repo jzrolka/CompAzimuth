@@ -8,4 +8,6 @@ Take that map and orient it to a certain degree according to physical positionin
 azimuth, then take the degree of said shot azimuth and produce POI in straight line of site of the azimuth. e.g. (landmarks;
 cities; buildings; farms etc.)
 
-The map can remain old for quite sometime and be updated in intervals of years. Good idea huh?
+Why? Because a compass doesn't work vertical when held up to Google Maps.
+
+The map can remain old for quite sometime and be updated in intervals of years. Good idea huh? It could incorporate both a hardware unit and software. Might make money.
