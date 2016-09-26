@@ -9,3 +9,7 @@ azimuth, then take the degree of said shot azimuth and produce POI in straight l
 cities; buildings; farms etc.)
 
 The map can remain old for quite sometime and be updated in intervals of years. Good idea huh?
+
+Why? Because a compass doesn't work vertical when held up to "google maps."
+
+It could incorporate a hardware unit and software. It might even make a lot of money if done right.
